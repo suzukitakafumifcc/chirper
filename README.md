@@ -1,7 +1,13 @@
 # Chirper
 
 [Laravel Bootcamp](https://bootcamp.laravel.com/)を実践します。
+
 リポジトリの内容はチュートリアルで作成するマイクロブログ、Chirperです。
+
+フロントエンドは、動的な[Livewire](https://livewire.laravel.com/)や
+[Vue](https://vuejs.org/)・[React](https://react.dev/)の知識が必要な
+[Inertia](https://inertiajs.com/)ではなく、
+シンプルな[Blade](https://laravel.com/docs/11.x/blade)を選択します。
 
 ## 前提条件
 
