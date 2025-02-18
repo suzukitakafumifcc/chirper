@@ -52,12 +52,6 @@ php artisan migrate
 
 ## 使い方
 
-### フロントエンドのビルド
-
-```bash
-npm run build
-```
-
 ### 開発サーバーの起動
 
 ```bash
