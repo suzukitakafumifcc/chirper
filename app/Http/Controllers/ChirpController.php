@@ -71,7 +71,7 @@ class ChirpController extends Controller
      */
     public function update(Request $request, Chirp $chirp)
     {
-        $this->authorize('update', $chirp);
+        // $this->authorize('update', $chirp);
 
         // Validate
         $validated = $request->validate([
